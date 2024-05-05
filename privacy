@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Your privacy is important to us. This Privacy Policy explains how we handle and protect your information in relation to our Chrome extehttps://github.com/skudskud/privacy-chrome-extension-test/tree/mainnsion, "SEO Analyzer".</p>
+    
+    <h2>1. Information We Collect</h2>
+    <p>We do not collect any personally identifiable information (PII) from users. The extension only analyzes SEO information from the currently active webpage.</p>
+    
+    <h2>2. How We Use Information</h2>
+    <p>The information retrieved from the active webpage is used solely to provide the SEO analysis. The extension does not store or transmit this information.</p>
+    
+    <h2>3. Data Sharing</h2>
+    <p>We do not share any user information with third parties. The information analyzed by the extension remains on the user's device.</p>
+    
+    <h2>4. Third-Party Links</h2>
+    <p>Our extension may include links to third-party websites. We are not responsible for the privacy practices or content of these websites.</p>
+    
+    <h2>5. Data Security</h2>
+    <p>We are committed to protecting the security of user data. However, we remind users to be mindful when sharing sensitive information online.</p>
+    
+    <h2>6. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Users are advised to check for updates regularly.</p>
+    
+    <h2>7. Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at [your email address].</p>
+</body>
+</html>
